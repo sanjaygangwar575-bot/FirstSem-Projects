@@ -1,0 +1,17 @@
+.box{
+    border: 5px solid black;
+    width: 150px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.content-box{
+    box-sizing: content-box;
+    position: absolute;
+    right: 60px;
+    background-color: chartreuse;
+}
+
+.border-box{
+    box-sizing: border-box;
+}
